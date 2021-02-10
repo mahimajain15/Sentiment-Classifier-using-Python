@@ -5,11 +5,8 @@ In this post I'll share the code and how I've implemented Sentiment Classifier u
 
 Algorithm in short : 
 
+1. preprocess the data
 
-preprocess the data
+2. convert English data to numerical representations
 
-
-convert English data to numerical representations
-
-
-prepare it to be fed as input for our deeplearning model with GRUs.
+3. prepare it to be fed as input for our deeplearning model with GRUs.

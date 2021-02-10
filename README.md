@@ -7,5 +7,9 @@ Algorithm in short : 
 
 
 preprocess the data
+
+
 convert English data to numerical representations
+
+
 prepare it to be fed as input for our deeplearning model with GRUs.

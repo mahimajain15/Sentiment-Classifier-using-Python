@@ -10,3 +10,5 @@ Algorithm in short : 
 2. convert English data to numerical representations
 
 3. prepare it to be fed as input for our deeplearning model with GRUs.
+
+In this code, all you have to do is improve the accuracy.

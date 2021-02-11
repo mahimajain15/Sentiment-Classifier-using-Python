@@ -1,4 +1,5 @@
 # Sentiment-Classifier-using-Python
+Here is the full blog : https://mahima15.medium.com/project-sentiment-classifier-using-python-b9d5105195f6
 
 Here is the code and how I've implemented Sentiment Classifier using Python. For this purpose data set used is tensorflow dataset of IMDB reviews. IMDB reviews given by viewers about various movies (tensorflow_dataset). The dataset is consists of reviews in English language.
 
